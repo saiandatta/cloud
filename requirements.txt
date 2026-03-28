@@ -1,0 +1,7 @@
+flask
+streamlit
+tensorflow
+numpy
+pillow
+requests
+scikit-image
